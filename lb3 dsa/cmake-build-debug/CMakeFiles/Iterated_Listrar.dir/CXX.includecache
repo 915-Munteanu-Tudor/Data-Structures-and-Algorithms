@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+T:/materiale/sem2/data struct/labs/lb3 dsa/ExtendedTest.cpp
+assert.h
+-
+exception
+-
+iostream
+-
+ExtendedTest.h
+T:/materiale/sem2/data struct/labs/lb3 dsa/ExtendedTest.h
+ListIterator.h
+T:/materiale/sem2/data struct/labs/lb3 dsa/ListIterator.h
+IteratedList.h
+T:/materiale/sem2/data struct/labs/lb3 dsa/IteratedList.h
+
+T:/materiale/sem2/data struct/labs/lb3 dsa/ExtendedTest.h
+
+T:/materiale/sem2/data struct/labs/lb3 dsa/IteratedList.h
+
+T:/materiale/sem2/data struct/labs/lb3 dsa/ListIterator.h
+IteratedList.h
+T:/materiale/sem2/data struct/labs/lb3 dsa/IteratedList.h
+

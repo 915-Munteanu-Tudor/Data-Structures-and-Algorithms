@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+T:/materiale/sem2/data struct/labs/lb2/lab2Eu/MultiMap/ExtendedTest.cpp
+ShortTest.h
+T:/materiale/sem2/data struct/labs/lb2/lab2Eu/MultiMap/ShortTest.h
+MultiMap.h
+T:/materiale/sem2/data struct/labs/lb2/lab2Eu/MultiMap/MultiMap.h
+MultiMapIterator.h
+T:/materiale/sem2/data struct/labs/lb2/lab2Eu/MultiMap/MultiMapIterator.h
+assert.h
+-
+iostream
+-
+stdlib.h
+-
+algorithm
+-
+vector
+-
+exception
+-
+
+T:/materiale/sem2/data struct/labs/lb2/lab2Eu/MultiMap/MultiMap.h
+vector
+-
+utility
+-
+
+T:/materiale/sem2/data struct/labs/lb2/lab2Eu/MultiMap/MultiMapIterator.h
+MultiMap.h
+T:/materiale/sem2/data struct/labs/lb2/lab2Eu/MultiMap/MultiMap.h
+
+T:/materiale/sem2/data struct/labs/lb2/lab2Eu/MultiMap/ShortTest.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+T:/materiale/sem2/data struct/labs/lab4dsa bun/SortedBagLb4Bun/SortedBag.cpp
+SortedBag.h
+T:/materiale/sem2/data struct/labs/lab4dsa bun/SortedBagLb4Bun/SortedBag.h
+SortedBagIterator.h
+T:/materiale/sem2/data struct/labs/lab4dsa bun/SortedBagLb4Bun/SortedBagIterator.h
+cmath
+-
+iostream
+-
+
+T:/materiale/sem2/data struct/labs/lab4dsa bun/SortedBagLb4Bun/SortedBag.h
+
+T:/materiale/sem2/data struct/labs/lab4dsa bun/SortedBagLb4Bun/SortedBagIterator.h
+SortedBag.h
+T:/materiale/sem2/data struct/labs/lab4dsa bun/SortedBagLb4Bun/SortedBag.h
+

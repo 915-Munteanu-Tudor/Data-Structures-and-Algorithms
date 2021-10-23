@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Iterated_Listrar"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Iterated_Listrar">
+				<Option output="T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Iterated_Listrar.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="T:/materiale/sem2/data struct/labs/lb3 dsa/."/>
+					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 Iterated_Listrar"/>
+					<CompileFile command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Iterated_Listrar/fast">
+				<Option output="T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Iterated_Listrar.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="T:/materiale/sem2/data struct/labs/lb3 dsa/."/>
+					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 Iterated_Listrar/fast"/>
+					<CompileFile command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="T:/materiale/sem2/data struct/labs/lb3 dsa/App.cpp">
+			<Option target="Iterated_Listrar"/>
+		</Unit>
+		<Unit filename="T:/materiale/sem2/data struct/labs/lb3 dsa/ExtendedTest.cpp">
+			<Option target="Iterated_Listrar"/>
+		</Unit>
+		<Unit filename="T:/materiale/sem2/data struct/labs/lb3 dsa/ExtendedTest.h">
+			<Option target="Iterated_Listrar"/>
+		</Unit>
+		<Unit filename="T:/materiale/sem2/data struct/labs/lb3 dsa/IteratedList.cpp">
+			<Option target="Iterated_Listrar"/>
+		</Unit>
+		<Unit filename="T:/materiale/sem2/data struct/labs/lb3 dsa/IteratedList.h">
+			<Option target="Iterated_Listrar"/>
+		</Unit>
+		<Unit filename="T:/materiale/sem2/data struct/labs/lb3 dsa/ListIterator.cpp">
+			<Option target="Iterated_Listrar"/>
+		</Unit>
+		<Unit filename="T:/materiale/sem2/data struct/labs/lb3 dsa/ListIterator.h">
+			<Option target="Iterated_Listrar"/>
+		</Unit>
+		<Unit filename="T:/materiale/sem2/data struct/labs/lb3 dsa/ShortTest.cpp">
+			<Option target="Iterated_Listrar"/>
+		</Unit>
+		<Unit filename="T:/materiale/sem2/data struct/labs/lb3 dsa/ShortTest.h">
+			<Option target="Iterated_Listrar"/>
+		</Unit>
+		<Unit filename="T:/materiale/sem2/data struct/labs/lb3 dsa/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

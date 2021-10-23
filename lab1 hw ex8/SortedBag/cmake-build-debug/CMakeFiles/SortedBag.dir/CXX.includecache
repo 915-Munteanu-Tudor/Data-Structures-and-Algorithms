@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/App.cpp
+SortedBag.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBag.h
+SortedBagIterator.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBagIterator.h
+iostream
+-
+ShortTest.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/ShortTest.h
+ExtendedTest.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/ExtendedTest.h
+
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/ExtendedTest.cpp
+ShortTest.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/ShortTest.h
+SortedBag.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBag.h
+SortedBagIterator.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBagIterator.h
+cassert
+-
+iostream
+-
+exception
+-
+
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/ExtendedTest.h
+
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/ShortTest.cpp
+ShortTest.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/ShortTest.h
+SortedBag.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBag.h
+SortedBagIterator.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBagIterator.h
+cassert
+-
+
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/ShortTest.h
+
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBag.cpp
+SortedBag.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBag.h
+SortedBagIterator.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBagIterator.h
+exception
+-
+bits/stdc++.h
+-
+
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBag.h
+
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBagIterator.cpp
+SortedBagIterator.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBagIterator.h
+SortedBag.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBag.h
+exception
+-
+
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBagIterator.h
+SortedBag.h
+T:/materiale/sem2/data struct/labs/lb1/lab1 hw ex8/SortedBag/SortedBag.h
+

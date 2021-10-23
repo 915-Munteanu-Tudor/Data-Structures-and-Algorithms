@@ -1,0 +1,3 @@
+T:/materiale/sem2/data struct/labs/lab4dsa bun/SortedBagLb4Bun/cmake-build-debug/CMakeFiles/SortedBag.dir
+T:/materiale/sem2/data struct/labs/lab4dsa bun/SortedBagLb4Bun/cmake-build-debug/CMakeFiles/edit_cache.dir
+T:/materiale/sem2/data struct/labs/lab4dsa bun/SortedBagLb4Bun/cmake-build-debug/CMakeFiles/rebuild_cache.dir

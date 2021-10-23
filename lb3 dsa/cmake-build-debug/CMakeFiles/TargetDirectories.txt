@@ -1,0 +1,3 @@
+T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/CMakeFiles/Iterated_Listrar.dir
+T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/CMakeFiles/edit_cache.dir
+T:/materiale/sem2/data struct/labs/lb3 dsa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
